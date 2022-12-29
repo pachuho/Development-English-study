@@ -1,3 +1,9 @@
+## 블로그 기록
+인상 깊게 읽었던 문서를 블로그에 보기 쉽게 올려두었습니다.
+[블로그](https://velog.io/@pachuho?tag=docs)
+
+-------------------
+
 # Development English study
 + 개발 영문서 읽기 스터디 
 
